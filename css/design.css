@@ -1,0 +1,10 @@
+h1{
+    font-family: 'Roboto', sans-serif;
+}
+
+i{
+        /* to make cursor look like a mouse hand */
+    cursor: pointer;    
+}
+
+.clear {}
